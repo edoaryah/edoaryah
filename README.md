@@ -21,8 +21,9 @@ I'm currently active in contributing as Front End and Back End Developer at <a h
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/edoaryah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edoaryah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edoaryah&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/edoaryah">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edoaryah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edoaryah&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
+  </a>
 </p>
+

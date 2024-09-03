@@ -1,13 +1,13 @@
-### Hi! 👋 I'm Faat.
+### Hi! 👋 I'm Edo.
 
 An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing as Front End and Back End Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Web and Back-End Service.
+I'm currently active in contributing as Front End and Back End Developer at <a href="https://www.instagram.com/alfath.corporation/">@alfath.corporation</a> to build courses in Front-End Web and Back-End Service.
 
-- 🔭 I’m currently studying at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🔭 I’m currently studying at <a href="https://www.instagram.com/polinema_campus/">@polinema_campus</a>
 - 🌱 I’m currently learning about front end and back end web
 - 💬 Feel free to ask me about web development
-- 📫 How to reach me: [instagram.com/ffaatt883](https://www.instagram.com/ffaatt883/)
+- 📫 How to reach me: [instagram.com/edoaryaa](https://www.instagram.com/edoaryaa/)
 - ⚡ Fun fact: an enjoyable person 
 
 ### Tech Stack

@@ -1,13 +1,13 @@
-### Hi! 👋 I'm Edo.
+### Hi! 👋 I'm Faat.
 
-An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed Laravel and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing Back-End Developer at <a href="https://www.instagram.com/alfath.corporation/">@alfath.corporation</a> to build websites in Back-End Service.
+I'm currently active in contributing as Front End and Back End Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Web and Back-End Service.
 
-- 🔭 I’m currently studying at <a href="https://www.instagram.com/polinema_campus/">@polinema_campus</a>
-- 🌱 I’m currently learning about back-end web
+- 🔭 I’m currently studying at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 I’m currently learning about front end and back end web
 - 💬 Feel free to ask me about web development
-- 📫 How to reach me: [instagram.com/edoaryaa](https://www.instagram.com/edoaryaa/)
+- 📫 How to reach me: [instagram.com/ffaatt883](https://www.instagram.com/ffaatt883/)
 - ⚡ Fun fact: an enjoyable person 
 
 ### Tech Stack
@@ -21,8 +21,8 @@ I'm currently active in contributing Back-End Developer at <a href="https://www.
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/edoaryah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edoaryah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edoaryah&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/SyafaatAkbar123">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyafaatAkbar123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyafaatAkbar123&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

@@ -27,5 +27,5 @@ I'm currently active in contributing as Front End and Back End Developer at <a h
   </a>
 </p>
 
-### Now Playing — Spotify 🎧
-[![Spotify Now Playing](https://spotify-card-three.vercel.app/)](https://open.spotify.com/user/edoarya2002?si=9eb7f43b6c834238)
+### Spotify 🎧
+[![Spotify Now Playing](https://spotify-card-three.vercel.app/)](https://open.spotify.com/user/edoarya2002)
